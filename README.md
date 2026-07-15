@@ -1,140 +1,66 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Nakul Jain</h1>
 
-# 👋 Hi, I'm Nakul Jain
+<h3 align="center">🎓 B.Tech Computer Science & Engineering Student | 💻 Aspiring Software Developer | 🚀 Lifelong Learner</h3>---
 
-### 💻 B.Tech CSE Student | Java Developer | Backend Enthusiast
+👨‍💻 About Me
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Java+Developer;Building+Projects+with+Java+%26+MySQL;Learning+DSA+Every+Day;Future+Software+Engineer" />
-
-</div>
-
----
-
-```bash
-nakul@github:~$ whoami
-
-Name        : Nakul Jain
-Username    : NakulJain789
-Role        : B.Tech CSE Student & Java Developer
-Location    : India 🇮🇳
-Currently   : Java • MySQL • JDBC • DSA
-Learning    : Backend Development
-Goal        : Become a Software Engineer
-```
+- 🎓 Pursuing B.Tech in Computer Science & Engineering
+- 🌱 Currently learning Java, MySQL, JDBC, Git, and Data Structures & Algorithms
+- 💡 Passionate about building real-world software projects and continuously improving my programming skills
+- 🎯 Interested in Software Development, Backend Development, Cloud Computing, and Artificial Intelligence
+- 📚 Believer in "Learn → Build → Improve → Repeat."
 
 ---
 
-# 👨‍💻 About Me
+🛠️ Tech Stack
 
-```text
-> I enjoy building real-world projects.
-> Passionate about Java Development.
-> Currently developing a Student Management System.
-> Always learning something new.
-```
+Programming Languages
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,mysql" />
+</p>Tools & Technologies
 
-# ⚡ Tech Stack
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+</p>---
 
-<p align="center">
+🚀 Featured Project
 
-<img src="https://skillicons.dev/icons?i=java,mysql,html,css,js,git,github,vscode,idea" />
+📚 Student Management System
 
-</p>
+A Java-based console application developed using Java, JDBC, and MySQL.
 
----
-
-# 📌 Featured Project
-
-## 🎓 Student Management System
-
-A Java-based Student Management System with MySQL integration.
-
-### Features
+Key Features
 
 - ✅ Add Student
 - ✅ View Students
 - ✅ Search Student
 - ✅ Update Student
 - ✅ Delete Student
+- ✅ MySQL Database Integration
 - ✅ JDBC Connectivity
-- ✅ MySQL Database
+- ✅ Object-Oriented Programming
+- ✅ Modular Project Structure
 
 ---
 
-# 📊 GitHub Stats
+🎯 2026 Goals
 
-<p align="center">
+- 🚀 Build impactful software projects
+- 📖 Master Data Structures & Algorithms
+- ☁️ Learn Cloud Technologies (AWS & Azure)
+- 🤖 Explore Artificial Intelligence
+- 🌍 Contribute to Open Source
+- 💼 Prepare for Software Engineering Internships
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NakulJain789&show_icons=true&theme=tokyonight"/>
+---
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NakulJain789&layout=compact&theme=tokyonight"/>
+🌟 Quote
 
+«"Success is built one commit at a time."»
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3><p align="center">
+Always learning • Always building • Always improving
 </p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NakulJain789&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=NakulJain789&theme=tokyonight&column=4"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NakulJain789&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🎯 2026 Goals
-
-- ☕ Master Java
-- 📚 Learn DSA
-- 🌐 Learn Spring Boot
-- 🚀 Build 10+ Projects
-- 🤝 Contribute to Open Source
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://github.com/NakulJain789">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="YOUR_LEETCODE">
-<img src="https://skillicons.dev/icons?i=leetcode"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-### 💚 Learn • Code • Build • Repeat
-
-![](https://komarev.com/ghpvc/?username=NakulJain789&color=brightgreen)
-
-</div>
