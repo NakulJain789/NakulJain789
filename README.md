@@ -1,16 +1,74 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nakul Jain</h1>
 
-<!--
-**NakulJain789/NakulJain789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">🎓 B.Tech Computer Science & Engineering Student | 💻 Aspiring Software Developer | 🚀 Lifelong Learner</h3>---
 
-Here are some ideas to get you started:
+👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Pursuing B.Tech in Computer Science & Engineering
+- 🌱 Currently learning Java, MySQL, JDBC, Git, and Data Structures & Algorithms
+- 💡 Passionate about building real-world software projects and continuously improving my programming skills
+- 🎯 Interested in Software Development, Backend Development, Cloud Computing, and Artificial Intelligence
+- 📚 Believer in "Learn → Build → Improve → Repeat."
+
+---
+
+🛠️ Tech Stack
+
+Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,mysql" />
+</p>Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+</p>---
+
+🚀 Featured Project
+
+📚 Student Management System
+
+A Java-based console application developed using Java, JDBC, and MySQL.
+
+Key Features
+
+- ✅ Add Student
+- ✅ View Students
+- ✅ Search Student
+- ✅ Update Student
+- ✅ Delete Student
+- ✅ MySQL Database Integration
+- ✅ JDBC Connectivity
+- ✅ Object-Oriented Programming
+- ✅ Modular Project Structure
+
+---
+
+🎯 2026 Goals
+
+- 🚀 Build impactful software projects
+- 📖 Master Data Structures & Algorithms
+- ☁️ Learn Cloud Technologies (AWS & Azure)
+- 🤖 Explore Artificial Intelligence
+- 🌍 Contribute to Open Source
+- 💼 Prepare for Software Engineering Internships
+
+---
+
+📊 GitHub Stats
+
+<p align="center">"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=NakulJain789&show_icons=true)
+
+"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=NakulJain789&layout=compact)
+
+</p>---
+
+🌟 Quote
+
+«"Success is built one commit at a time."»
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3><p align="center">
+Always learning • Always building • Always improving
+</p>
