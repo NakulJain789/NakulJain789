@@ -55,14 +55,6 @@ Key Features
 
 ---
 
-📊 GitHub Stats
-
-<p align="center">"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=NakulJain789&show_icons=true)
-
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=NakulJain789&layout=compact)
-
-</p>---
-
 🌟 Quote
 
 «"Success is built one commit at a time."»
