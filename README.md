@@ -1,34 +1,66 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Nakul Jain</h1>
 
-# 👋 Hi, I'm Nakul Jain
+<h3 align="center">🎓 B.Tech Computer Science & Engineering Student | 💻 Aspiring Software Developer | 🚀 Lifelong Learner</h3>---
 
-### 💻 B.Tech Computer Science & Engineering Student
-### ☕ Java Developer • Backend Enthusiast • Lifelong Learner
+👨‍💻 About Me
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Building+Real-World+Java+Projects;Learning+DSA+%7C+MySQL+%7C+Backend+Development;Turning+Ideas+Into+Code." />
-
-<img src="https://komarev.com/ghpvc/?username=NakulJain789&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</div>
-
----
-
-```bash
-nakul@github:~$ whoami
-
-👤 Name        : Nakul Jain
-🎓 Education   : B.Tech Computer Science & Engineering
-💻 Role        : Student Developer
-📍 Location    : India 🇮🇳
-☕ Primary Lang : Java
-🗄 Database     : MySQL
-🌱 Learning    : DSA • JDBC • Git • Backend Development
-🎯 Mission     : Build impactful software and continuously improve.
-```
+- 🎓 Pursuing B.Tech in Computer Science & Engineering
+- 🌱 Currently learning Java, MySQL, JDBC, Git, and Data Structures & Algorithms
+- 💡 Passionate about building real-world software projects and continuously improving my programming skills
+- 🎯 Interested in Software Development, Backend Development, Cloud Computing, and Artificial Intelligence
+- 📚 Believer in "Learn → Build → Improve → Repeat."
 
 ---
 
-# 🚀 About Me
+🛠️ Tech Stack
 
-```text
-> Passionate about building
+Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,mysql" />
+</p>Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
+</p>---
+
+🚀 Featured Project
+
+📚 Student Management System
+
+A Java-based console application developed using Java, JDBC, and MySQL.
+
+Key Features
+
+- ✅ Add Student
+- ✅ View Students
+- ✅ Search Student
+- ✅ Update Student
+- ✅ Delete Student
+- ✅ MySQL Database Integration
+- ✅ JDBC Connectivity
+- ✅ Object-Oriented Programming
+- ✅ Modular Project Structure
+
+---
+
+🎯 2026 Goals
+
+- 🚀 Build impactful software projects
+- 📖 Master Data Structures & Algorithms
+- ☁️ Learn Cloud Technologies (AWS & Azure)
+- 🤖 Explore Artificial Intelligence
+- 🌍 Contribute to Open Source
+- 💼 Prepare for Software Engineering Internships
+
+---
+
+🌟 Quote
+
+«"Success is built one commit at a time."»
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile! ⭐</h3><p align="center">
+Always learning • Always building • Always improving
+</p>
